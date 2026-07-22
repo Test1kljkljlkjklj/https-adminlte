@@ -140,7 +140,7 @@ var colorName = {
 |                                                                                                            |   |   |   |   |   |   |   |   |   |
 | ---------------------------------------------------------------------------------------------------------- | - | - | - | - | - | - | - | - | - |
 | <SwmToken path="/.eslintrc.json" pos="12:2:2" line-data="    &quot;jquery&quot;: true">`jquery`</SwmToken> | / |   |   |   |   |   |   |   |   |
-|                                                                                                            |   |   |   |   |   |   |   |   |   |
+| lplp                                                                                                       |   |   |   |   |   |   |   |   |   |
 
 <SwmSnippet path="/dist/css/adminlte.css" line="13">
 
